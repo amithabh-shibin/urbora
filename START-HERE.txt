@@ -1,0 +1,22 @@
+URBORA WEBSITE
+
+Preview
+Unzip the package and open index.html, or serve the extracted folder using a static host.
+Upload the contents of the extracted folder to the document root of your hosting account.
+
+Contact setup
+The phone and WhatsApp numbers are set to +971 52 377 0110. Update them or add an email
+in config.js as needed. Use full international numbers. The floating WhatsApp icon appears
+at every screen width once configured. The floating call icon appears up to 1024px.
+The enquiry form prepares a message for WhatsApp or email and displays a copyable draft.
+It is a static form and has no server-side submission or storage.
+
+SEO setup
+Replace https://example.com in robots.txt and sitemap.xml with the live HTTPS domain.
+Each page has a distinct title and description plus social preview text. After publishing,
+submit the live sitemap URL in Google Search Console.
+
+Images and testimonials
+The website uses illustrative generated images and a text-based brand mark based on the
+supplied green and charcoal branding. Replace the illustrative testimonial cards and portraits
+with approved customer reviews and photos before presenting them as customer testimonials.
